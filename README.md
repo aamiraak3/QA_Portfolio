@@ -1,1 +1,1 @@
-# QA_Portfolio
+Hi, I am Aamir Ahmad Khan. This repository contains my software testing practice work: test cases, bug reports, and API tests. I am learning manual QA and building my skills step by step
